@@ -47,7 +47,7 @@ export default function Page() {
             <Dot className='cursor-not-allowed bg-green-500' />
           </span>
           <span className='text-center text-gray-400'>
-            zhangyu@MacBook-Air:~
+            xiaohei@MacPro:~
           </span>
           <span className='text-end text-gray-500'>⌥⌘1</span>
         </header>
@@ -57,8 +57,8 @@ export default function Page() {
             <TypedText>whoami</TypedText>
             <TypedContent>
               <p>
-                Hi, I&apos;m <strong>ZHANG YU</strong>, in Chinese my name is{' '}
-                <strong>张宇</strong>.
+                Hi, I&apos;m <strong>XiaoHei</strong>, in Chinese my name is{' '}
+                <strong>小黑</strong>.
               </p>
               <p>
                 I am a senior front-end engineer who have been involving in
@@ -100,60 +100,57 @@ export default function Page() {
               <ul>
                 <li>
                   <strong>
-                    <a href='https://github.com/zhangyu1818/react-markdown-toc'>
-                      react-markdown-toc
+                    <a href='http://heihome.site'>
+                      主页
                     </a>
                   </strong>
                 </li>
-                <li>Generating a Table of Contents (TOC) from Markdown.</li>
+                <li>我的主页，欢迎访问</li>
               </ul>
               <ul>
                 <li>
                   <strong>
-                    <a href='https://github.com/zhangyu1818/from-to'>
-                      from-to.js
+                    <a href='http://pan.heihome.site'>
+                      我的网盘
                     </a>
                   </strong>
                 </li>
-                <li>Transitioning from one value to another.</li>
+                <li>不限速网盘，永久免费</li>
               </ul>
               <ul>
                 <li>
                   <strong>
-                    <a href='https://github.com/zhangyu1818/react-server-only-context'>
-                      react-server-only-context
+                    <a href='http://game.heihome.site'>
+                      小游戏
                     </a>
                   </strong>
                 </li>
                 <li>
-                  A straightforward alternative for using context within React
-                  Server Components.
-                </li>
-              </ul>
-              <ul>
-                <li>
-                  <strong>
-                    <a href='https://github.com/zhangyu1818/tw-styled'>
-                      tw-styled
-                    </a>
-                  </strong>
-                </li>
-                <li>
-                  Create Tailwind CSS-styled React components with ease using
-                  tw-styled.
+                  网页小游戏，点击即玩
                 </li>
               </ul>
               <ul>
                 <li>
                   <strong>
-                    <a href='https://github.com/zhangyu1818/use-flip'>
-                      use-flip
+                    <a href='http://blog.heihome.site'>
+                      我的博客
                     </a>
                   </strong>
                 </li>
                 <li>
-                  Effortless FLIP animations with a React Hook for smoother
-                  transitions.
+                  我的博客，旧站 更新快，速度较慢
+                </li>
+              </ul>
+              <ul>
+                <li>
+                  <strong>
+                    <a href='http://more.heihome.site'>
+                      我的副站
+                    </a>
+                  </strong>
+                </li>
+                <li>
+                  更多信息请点击查询
                 </li>
               </ul>
             </TypedContent>
